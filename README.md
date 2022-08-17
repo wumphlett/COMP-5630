@@ -1,2 +1,3 @@
-# COMP-5630
-Auburn COMP-5630 Projects
+# COMP 5630
+Auburn COMP 5630 Projects  
+Machine Learning
