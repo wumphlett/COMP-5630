@@ -5,12 +5,8 @@ from typing import Tuple
 from dotenv import load_dotenv
 import numpy as np
 import pandas as pd
-from sklearn import metrics
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.preprocessing import LabelEncoder
-
-
-TARGET = "income_over_50k"
 
 
 def get_dataframe(path: Path) -> pd.DataFrame:
