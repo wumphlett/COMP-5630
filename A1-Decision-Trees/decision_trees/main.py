@@ -10,9 +10,6 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.preprocessing import LabelEncoder
 
 
-TARGET = "income_over_50k"
-
-
 def get_dataframe(path: Path) -> pd.DataFrame:
     data = pd.read_csv(path)
     data.dropna(inplace=True)
@@ -52,9 +49,13 @@ def main():
     test_accuracy = decision_tree.score(test_features, test_target)
     print(f"{k:2} : {test_accuracy:.2%}")
 
+    """ The following is correct if overfitting is a comparison between training and total data
     all_features, all_target = pd.concat([training_features, test_features]), pd.concat([training_target, test_target])
-    all_accuracy = decision_tree.score(all_features, all_target)
+    comp_accuracy = decision_tree.score(all_features, all_target)
     is_overfitting = all_accuracy <= training_accuracy
+    """
+    comp_accuracy = decision_tree.score(test_features, test_target)
+    is_overfitting = comp_accuracy <= training_accuracy
     print("\nOverfitting Analysis")
-    print(f"Training Acc: {training_accuracy:.2%}, Total Acc: {all_accuracy:.2%}")
-    print(f"Overfitting?: {is_overfitting}{f' ({training_accuracy - all_accuracy:.2%})' if is_overfitting else ''}")
+    print(f"Training Acc: {training_accuracy:.2%}, Total Acc: {comp_accuracy:.2%}")
+    print(f"Overfitting?: {is_overfitting}{f' ({training_accuracy - comp_accuracy:.2%})' if is_overfitting else ''}")
