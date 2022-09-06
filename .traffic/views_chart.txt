@@ -1,5 +1,5 @@
 
-    Total Views per Day from 2022-08-17 to 2022-09-03
+    Total Views per Day from 2022-08-17 to 2022-09-06
 
     Repository Views
   164.00  ┼               ╭╮
@@ -16,8 +16,8 @@
    43.73  ┤            ╭╮│ │
    32.80  ┤            │││ │
    21.87  ┤       ╭╮   │││ │
-   10.93  ┼╮      │╰╮  │╰╯ │
-    0.00  ┤╰──────╯ ╰──╯   ╰
+   10.93  ┼╮      │╰╮  │╰╯ │  ╭
+    0.00  ┤╰──────╯ ╰──╯   ╰──╯
 
-    Chart last updated - Tue Sep  6 03:01:57 2022 UTC
+    Chart last updated - Tue Sep  6 05:05:44 2022 UTC
     
