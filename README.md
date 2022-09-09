@@ -4,7 +4,7 @@ Machine Learning
 
 ```
 
-    Total Views per Day from 2022-08-17 to 2022-09-08
+    Total Views per Day from 2022-08-17 to 2022-09-09
 
     Repository Views
   164.00  ┼               ╭╮
@@ -19,11 +19,11 @@ Machine Learning
    65.60  ┤              │ │
    54.67  ┤              │ │
    43.73  ┤            ╭╮│ │
-   32.80  ┤            │││ │   ╭╮
-   21.87  ┤       ╭╮   │││ │   ││
-   10.93  ┼╮      │╰╮  │╰╯ │  ╭╯│
-    0.00  ┤╰──────╯ ╰──╯   ╰──╯ ╰
+   32.80  ┤            │││ │   ╭─╮
+   21.87  ┤       ╭╮   │││ │   │ │
+   10.93  ┼╮      │╰╮  │╰╯ │  ╭╯ │
+    0.00  ┤╰──────╯ ╰──╯   ╰──╯  ╰
 
-    Chart last updated - Thu Sep  8 00:31:33 2022 UTC
+    Chart last updated - Fri Sep  9 00:32:09 2022 UTC
     
 ```
