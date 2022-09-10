@@ -1,10 +1,9 @@
 import os
 from pathlib import Path
 import time
-from typing import List, Optional, Tuple
+from typing import List, Optional
 
 from dotenv import load_dotenv
-import numpy as np
 import pandas as pd
 from sklearn.naive_bayes import BernoulliNB, CategoricalNB, ComplementNB, GaussianNB, MultinomialNB
 
