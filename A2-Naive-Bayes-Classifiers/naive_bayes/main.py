@@ -14,10 +14,8 @@ def get_dataframe(path: Path, names: Optional[List[str]] = None) -> pd.DataFrame
     return pd.read_csv(path, header=None)
 
 
-def train_model(naive_bayes_implementation, train, train_labels, test, test_labels, name):
-    nb = naive_bayes_implementation()
-
-    print(f"Training {name} Naive Bayes")
+def train_model(nb, train, train_labels, test, test_labels):
+    print(f"Training {type(nb).__name__[:-2]} Naive Bayes")
     start = time.time()
     nb.fit(train, train_labels.values.ravel())
     end = time.time()
@@ -41,7 +39,10 @@ def main():
     test_labels = get_dataframe(data_dir / os.getenv("TEST_LABELS"))
 
     print("Training and Testing Multiple Naive Bayes Implementations")
-    train_model(MultinomialNB, training_features, training_labels, test_features, test_labels, "Multinomial")
-    train_model(GaussianNB, training_features, training_labels, test_features, test_labels, "Gaussian")
-    train_model(ComplementNB, training_features, training_labels, test_features, test_labels, "Complement")
-    train_model(BernoulliNB, training_features, training_labels, test_features, test_labels, "Bernoulli")
+    train_model(MultinomialNB(), training_features, training_labels, test_features, test_labels)
+    train_model(GaussianNB(), training_features, training_labels, test_features, test_labels)
+    train_model(ComplementNB(), training_features, training_labels, test_features, test_labels)
+    train_model(BernoulliNB(), training_features, training_labels, test_features, test_labels)
+    train_model(
+        CategoricalNB(min_categories=len(column_names)), training_features, training_labels, test_features, test_labels
+    )
