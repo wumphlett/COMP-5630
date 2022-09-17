@@ -21,16 +21,48 @@ dev_set - A Numpy array of 32x32x3 images of shape [2500, 3072].
 return - a list containing predicted labels for dev_set
 """
 
-from sklearn.linear_model import Perceptron
+import numpy as np
+
+
+class Perceptron:
+    def __init__(self, learning_rate: float = 1e-2, max_iter: int = 10):
+        self.learning_rate = learning_rate
+        self.max_iter = max_iter
+        self.weights = None
+
+    def fit(self, train_set: np.ndarray, train_labels: np.ndarray):
+        m, n = train_set.shape
+        self.weights = np.zeros((n + 1, 1))
+
+        for iteration in range(self.max_iter):
+            for i, x in enumerate(train_set):
+
+                x = np.append(x, 1).reshape(-1, 1)
+                y_predicted = 1. if np.squeeze(np.dot(x.T, self.weights)) >= 0 else 0.
+
+                if y_predicted != train_labels[i]:
+                    self.weights += self.learning_rate * ((1. if train_labels[i] else -1.) * x)
+
+        return self.weights[:-1], self.weights[-1]
+
+    def predict(self, test_set: np.ndarray):
+        labels = []
+
+        for i, x in enumerate(test_set):
+            x = np.append(x, 1).reshape(-1, 1)
+            labels.append(True if np.squeeze(np.dot(x.T, self.weights)) >= 0 else False)
+
+        return labels
 
 
 def trainPerceptron(train_set, train_labels, learning_rate, max_iter):
-    perceptron = Perceptron(eta0=learning_rate, max_iter=max_iter)
+    perceptron = Perceptron(learning_rate=learning_rate, max_iter=max_iter)
     perceptron.fit(train_set, train_labels)
-    return list(perceptron.coef_[0]), perceptron.intercept_[0]
+    weights = perceptron.weights.flatten()
+    return list(weights[:-1]), weights[-1]
 
 
 def classifyPerceptron(train_set, train_labels, dev_set, learning_rate, max_iter):
-    perceptron = Perceptron(eta0=learning_rate, max_iter=max_iter)
+    perceptron = Perceptron(learning_rate=learning_rate, max_iter=max_iter)
     perceptron.fit(train_set, train_labels)
-    return list(perceptron.predict(dev_set))
+    return perceptron.predict(dev_set)
