@@ -1,0 +1,221 @@
+23:26:51 START 1   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 5   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 9   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 13  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 17  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 21  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 25  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 29  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 33  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 37  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 41  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 45  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 49  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 53  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 57  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 61  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 65  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 69  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001}
+23:26:51 START 73  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001}
+00:46:32 ENDED 13  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001} (0.43686047719085236)
+00:46:32 START 14  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001}
+00:48:57 ENDED 49  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001} (0.7242054141272136)
+00:48:57 START 50  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001}
+00:49:35 ENDED 9   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001} (0.3534359498686008)
+00:49:35 START 10  / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001}
+00:51:39 ENDED 1   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001} (0.4113714244634199)
+00:51:39 START 2   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001}
+00:51:49 ENDED 45  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001} (0.5593373325558546)
+00:51:49 START 46  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001}
+00:53:39 ENDED 33  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001} (0.4628208098026216)
+00:53:39 START 34  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001}
+00:53:48 ENDED 41  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001} (0.5651843982394901)
+00:53:48 START 42  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001}
+00:55:09 ENDED 17  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001} (0.4025369235807686)
+00:55:09 START 18  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001}
+00:56:47 ENDED 29  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001} (0.48953998290611944)
+00:56:47 START 30  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001}
+01:01:32 ENDED 5   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001} (0.3660966043884944)
+01:01:32 START 6   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001}
+01:16:28 ENDED 57  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001} (0.7130225016175284)
+01:16:28 START 58  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001}
+01:23:02 ENDED 21  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001} (0.44754015863760177)
+01:23:02 START 22  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001}
+01:24:55 ENDED 37  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001} (0.5798260258325278)
+01:24:55 START 38  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001}
+01:27:01 ENDED 25  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001} (0.4849070620092499)
+01:27:01 START 26  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001}
+01:27:24 ENDED 53  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001} (0.7239577924930706)
+01:27:24 START 54  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001}
+01:49:25 ENDED 69  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001} (0.3383789569537746)
+01:49:25 START 70  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001}
+02:07:11 ENDED 65  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001} (0.3779185404701616)
+02:07:11 START 66  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001}
+02:12:40 ENDED 2   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001} (0.3739326309399238)
+02:12:40 START 3   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001}
+02:13:09 ENDED 10  / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001} (0.38658529766516764)
+02:13:09 START 11  / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001}
+02:15:46 ENDED 46  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001} (0.6799610195621091)
+02:15:46 START 47  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001}
+02:17:02 ENDED 73  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001} (0.4430829692230272)
+02:17:02 START 74  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001}
+02:21:09 ENDED 34  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001} (0.4498965580592854)
+02:21:09 START 35  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001}
+02:21:32 ENDED 61  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001} (0.41902373173790447)
+02:21:32 START 62  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001}
+02:23:41 ENDED 50  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001} (0.6707031655630197)
+02:23:41 START 51  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001}
+02:25:08 ENDED 14  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001} (0.4077689290763713)
+02:25:08 START 15  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001}
+02:26:34 ENDED 42  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001} (0.6787308991860437)
+02:26:34 START 43  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001}
+02:32:32 ENDED 30  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001} (0.4817518831225887)
+02:32:32 START 31  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001}
+02:39:01 ENDED 18  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001} (0.39589107843215565)
+02:39:01 START 19  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001}
+02:48:08 ENDED 38  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001} (0.6633783578691759)
+02:48:08 START 39  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001}
+02:48:28 ENDED 58  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001} (0.6952816097003778)
+02:48:28 START 59  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001}
+02:55:32 ENDED 6   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001} (0.34592742289781214)
+02:55:32 START 7   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001}
+03:03:32 ENDED 26  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001} (0.4794354226741539)
+03:03:32 START 27  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001}
+03:05:53 ENDED 22  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001} (0.41762586767419385)
+03:05:53 START 23  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001}
+03:14:19 ENDED 54  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001} (0.7024626370905257)
+03:14:19 START 55  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001}
+04:06:34 ENDED 70  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001} (0.3890135872386993)
+04:06:34 START 71  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001}
+04:20:11 ENDED 47  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001} (0.5174972641803325)
+04:20:11 START 48  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.001}
+04:24:33 ENDED 35  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001} (0.44011949740796064)
+04:24:33 START 36  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.001}
+04:30:53 ENDED 15  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001} (0.40228930194662554)
+04:30:53 START 16  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001}
+04:37:47 ENDED 11  / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001} (0.39829540462173796)
+04:37:47 START 12  / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.001}
+04:39:00 ENDED 51  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001} (0.6805840675447915)
+04:39:00 START 52  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001}
+04:39:42 ENDED 3   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001} (0.3616793539471687)
+04:39:42 START 4   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001}
+04:41:19 ENDED 43  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001} (0.556765262678627)
+04:41:19 START 44  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.001}
+04:45:55 ENDED 31  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001} (0.4807534087913668)
+04:45:55 START 32  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.001}
+04:46:24 ENDED 74  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001} (0.41820098888897766)
+04:46:24 START 75  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001}
+04:48:01 ENDED 19  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001} (0.40232924091987443)
+04:48:01 START 20  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.001}
+04:51:28 ENDED 62  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001} (0.3879591983449289)
+04:51:28 START 63  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001}
+04:59:03 ENDED 66  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001} (0.3618790488134131)
+04:59:03 START 67  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001}
+04:59:23 ENDED 39  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001} (0.5743064597295333)
+04:59:24 START 40  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001}
+05:08:27 ENDED 7   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001} (0.3414382823046385)
+05:08:27 START 8   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.001}
+05:11:53 ENDED 59  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001} (0.3991261352653146)
+05:11:53 START 60  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.001}
+05:12:55 ENDED 23  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001} (0.40936648800632636)
+05:12:55 START 24  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.001}
+05:28:48 ENDED 27  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001} (0.48236694331062135)
+05:28:48 START 28  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001}
+05:35:16 ENDED 55  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001} (0.6765981580145538)
+05:35:16 START 56  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.001}
+06:24:21 ENDED 36  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.001} (0.44290723774073215)
+06:24:21 START 77  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001}
+06:35:24 ENDED 16  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001} (0.40236119209847354)
+06:35:24 START 81  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001}
+06:40:34 ENDED 52  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001} (0.6600154963216206)
+06:40:34 START 85  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001}
+06:45:09 ENDED 48  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.001} (0.5629318401482535)
+06:45:09 START 89  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001}
+06:51:30 ENDED 12  / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.001} (0.3725826936441118)
+06:51:30 START 93  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001}
+06:53:54 ENDED 20  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.001} (0.4089591104791878)
+06:53:54 START 97  / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001}
+06:54:44 ENDED 4   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001} (0.36576111701320385)
+06:54:44 START 101 / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001}
+06:57:18 ENDED 32  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.001} (0.48088920130041296)
+06:57:18 START 105 / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001}
+07:04:35 ENDED 40  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001} (0.5728047543353756)
+07:04:35 START 109 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001}
+07:09:27 ENDED 44  / 300 : {'epochs': 10, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.001} (0.5661908603653617)
+07:09:27 START 113 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001}
+07:21:17 ENDED 24  / 300 : {'epochs': 10, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.001} (0.40103521818661086)
+07:21:17 START 117 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001}
+07:26:28 ENDED 8   / 300 : {'epochs': 10, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.001} (0.34036791782156867)
+07:26:28 START 121 / 300 : {'epochs': 31, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001}
+07:38:14 ENDED 60  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.001} (0.6662300005591456)
+07:38:14 START 125 / 300 : {'epochs': 31, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001}
+07:39:27 ENDED 71  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001} (0.4018339976515884)
+07:39:27 START 72  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.001}
+07:47:11 ENDED 56  / 300 : {'epochs': 10, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.001} (0.6593924483389381)
+07:47:11 START 129 / 300 : {'epochs': 31, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001}
+07:58:49 ENDED 28  / 300 : {'epochs': 10, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001} (0.4688675703525014)
+07:58:49 START 133 / 300 : {'epochs': 31, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001}
+08:33:35 ENDED 63  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001} (0.3637402049668107)
+08:33:35 START 64  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001}
+08:38:23 ENDED 75  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001} (0.4157167847528976)
+08:38:23 START 76  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001}
+08:52:05 ENDED 77  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001} (0.4175380019330463)
+08:52:05 START 78  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001}
+09:10:58 ENDED 81  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001} (0.45678203704739156)
+09:10:58 START 82  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001}
+09:11:29 ENDED 67  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001} (0.35678283582685655)
+09:11:29 START 68  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.001}
+09:15:59 ENDED 89  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001} (0.48671230360009904)
+09:15:59 START 90  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001}
+09:20:10 ENDED 93  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001} (0.4641947104823829)
+09:20:10 START 94  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001}
+09:23:50 ENDED 105 / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001} (0.6020800217268014)
+09:23:50 START 106 / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001}
+09:34:43 ENDED 101 / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001} (0.5985813676702)
+09:34:43 START 102 / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001}
+09:35:09 ENDED 109 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001} (0.7235424271712823)
+09:35:09 START 110 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001}
+09:35:30 ENDED 97  / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001} (0.6097962313584843)
+09:35:30 START 98  / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001}
+09:42:03 ENDED 85  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001} (0.484795232884153)
+09:42:03 START 86  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001}
+09:50:38 ENDED 113 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001} (0.7232948055371392)
+09:50:38 START 114 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001}
+09:59:04 ENDED 117 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001} (0.7351966195653042)
+09:59:04 START 118 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001}
+11:18:38 ENDED 72  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.001} (0.3803308544543937)
+11:18:38 START 137 / 300 : {'epochs': 31, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001}
+11:19:45 ENDED 78  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001} (0.4463020504668866)
+11:19:45 START 79  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001}
+11:47:08 ENDED 94  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001} (0.46925897229034036)
+11:47:08 START 95  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001}
+11:47:43 ENDED 106 / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001} (0.7179749343003891)
+11:47:44 START 107 / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001}
+11:53:47 ENDED 98  / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001} (0.6988920928820762)
+11:53:47 START 99  / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001}
+12:02:28 ENDED 90  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001} (0.5138708054093345)
+12:02:28 START 91  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001}
+12:08:27 ENDED 110 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001} (0.682309431189143)
+12:08:27 START 111 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001}
+12:10:32 ENDED 82  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001} (0.4302146320422395)
+12:10:32 START 83  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001}
+12:12:09 ENDED 129 / 300 : {'epochs': 31, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001} (0.39557955444081444)
+12:12:09 START 130 / 300 : {'epochs': 31, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001}
+12:19:31 ENDED 121 / 300 : {'epochs': 31, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001} (0.32809067744486425)
+12:19:31 START 122 / 300 : {'epochs': 31, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001}
+12:21:52 ENDED 118 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.001} (0.6861435726210351)
+12:21:52 START 119 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L1', 'reg_const': 0.0001}
+12:22:27 ENDED 125 / 300 : {'epochs': 31, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.0001} (0.3605610626962002)
+12:22:27 START 126 / 300 : {'epochs': 31, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001}
+12:31:47 ENDED 64  / 300 : {'epochs': 17, 'lr': 2e-05, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001} (0.36460288678898645)
+12:31:48 START 141 / 300 : {'epochs': 31, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'relu', 'regularization': 'L2', 'reg_const': 0.0001}
+12:32:47 ENDED 76  / 300 : {'epochs': 17, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.001} (0.41913556086300136)
+12:32:47 START 145 / 300 : {'epochs': 31, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001}
+12:34:09 ENDED 86  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001} (0.5208761013171873)
+12:34:09 START 87  / 300 : {'epochs': 17, 'lr': 0.0020000000000000005, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L1', 'reg_const': 0.0001}
+12:47:15 ENDED 133 / 300 : {'epochs': 31, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.0001} (0.43282664089271594)
+12:47:15 START 134 / 300 : {'epochs': 31, 'lr': 0.00020000000000000004, 'hidden_layers': [50, 20], 'activation': 'sigmoid', 'regularization': 'L2', 'reg_const': 0.001}
+12:55:28 ENDED 102 / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001} (0.7256192537802238)
+12:55:28 START 103 / 300 : {'epochs': 17, 'lr': 0.020000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001}
+12:59:55 ENDED 114 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L2', 'reg_const': 0.001} (0.6898578971331805)
+12:59:55 START 115 / 300 : {'epochs': 17, 'lr': 0.20000000000000004, 'hidden_layers': [50, 20], 'activation': 'tanh', 'regularization': 'L1', 'reg_const': 0.0001}

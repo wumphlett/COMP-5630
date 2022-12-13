@@ -1,4 +1,4 @@
-# A2-Perceptrons
+# A3-Perceptrons
 Creation of perceptron image classifiers  
 *full assignment outline can be read in perceptrons.pdf*
 
